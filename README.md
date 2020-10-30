@@ -1,3 +1,5 @@
+这个项目是可以运行的没有问题,附带有手表项目以及手表项目拓展，手机App和手机App拓展
+
 # Tomate
 This is in the App Store as Fojusi (https://itunes.apple.com/de/app/fojusi/id923044693)
 
